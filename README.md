@@ -20,7 +20,7 @@ In the next version, we plan to upgrade BackupBuddy to provide flexibility in co
 
 ## Download
 
-You can download the executable file from [here](). Please feel free to provide feedback, suggestions, or report any issues you encounter.
+You can download the executable file from [here](https://github.com/Gohulan/Simphony-CAPS-Backup/blob/master/Simphony-CAPS-Backup.exe). Please feel free to provide feedback, suggestions, or report any issues you encounter.
 
 ## Feedback and Support
 
